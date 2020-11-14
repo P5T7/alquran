@@ -6,4 +6,6 @@ pkg install git -y
 pkg install python2 -y
 git clone https://github.com/P5T7/alquran
 cd alquran
-python2
+pip2 install requests
+pip2 install bs4
+python2 surat.py
