@@ -59,6 +59,17 @@ while True:
 
     os.system("clear")
     menud = """\x1b[1;37m
+===============================================
+-----------------------------------------------
+
+                    PST7   
+                    
+             tools pengobat hati
+             di saat lo terpuruk
+
+-----------------------------------------------
+===============================================
+
 [AR] > Arab  > {}
 [L]  > Latin > {}
 [A]  > Arti  > {}
@@ -160,9 +171,9 @@ while True:
 (DO)     : Untuk Mendownload Semua Surah Agar Offline,
            Ukurannya tidak terlalu besar,hanya 5 mb
 
-Author        : Kumpulan Remaja
-Author's team : Kumpulan Remaja
-Author's YT   : Kumpulan Remaja
+Author        : PST7
+Facebook      : Arwani
+Github        : https://github.com/P5T7
 Source        : Litequran.net
 thanks to     : Allah SWT :)
 """)
