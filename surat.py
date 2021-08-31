@@ -80,7 +80,7 @@ while True:
 [B]  > Baca Surah
 [DO] > Download All Surah Offline
 """.format(ayt,ind,art)
-    print menu
+    print menud
     menu = raw_input("Pilihan > ")
     if menu.lower() == "ar":
        if ayt == False:
